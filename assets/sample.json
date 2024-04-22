@@ -1,0 +1,31 @@
+{
+    "name": "Lorem Ipsum",
+    "age": 20,
+    "hobby": [
+        "Coding",
+        "Tidur",
+        "Makan"
+    ],
+    "github": {
+        "username": "Lorem",
+        "repositories": 2897,
+        "isGDE": true
+    },
+    "articles" : [
+        {
+            "id": 1,
+            "title": "God of war",
+            "subtitle": "that is movie"
+        },
+        {
+            "id": 2,
+            "title": "Harvest moon",
+            "subtitle": "that is game"
+        },
+        {
+            "id": 3,
+            "title": "God of war",
+            "subtitle": "that is hero"
+       }
+]
+}
